@@ -1,4 +1,4 @@
-# Challenge API Fintech
+# Challenge JS+
 
  - How to run the project locally?
 	 - 
