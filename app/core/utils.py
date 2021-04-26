@@ -105,7 +105,7 @@ def handle_pagination(
     return {
         "pageNumber": page_number,
         "pageSize": page_size,
-        "totalCount": len(results),
+        "totalCount": len(items),
         "users": users,
     }
 
